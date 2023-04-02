@@ -3,11 +3,11 @@ Machine Learning is a field of computer science that focuses on building algorit
 
 There are three main types of machine learning that can be applied to hydrology:
 
-Supervised learning: In this type of learning, the algorithm is trained on a labeled dataset, where each example in the dataset is associated with a target variable such as streamflow. The goal of the algorithm is to learn a function that can map input variables such as precipitation, temperature, and soil moisture to the target variable.
+#Supervised learning: In this type of learning, the algorithm is trained on a labeled dataset, where each example in the dataset is associated with a target variable    such as streamflow. The goal of the algorithm is to learn a function that can map input variables such as precipitation, temperature, and soil moisture to the target variable.
 
-Unsupervised learning: In this type of learning, the algorithm is trained on an unlabeled dataset, where there is no target variable. The goal of the algorithm is to find patterns or structure in the data that can be used for clustering, dimensionality reduction, or anomaly detection.
+#Unsupervised learning: In this type of learning, the algorithm is trained on an unlabeled dataset, where there is no target variable. The goal of the algorithm is to find patterns or structure in the data that can be used for clustering, dimensionality reduction, or anomaly detection.
 
-Reinforcement learning: In this type of learning, the algorithm learns by interacting with an environment and receiving feedback in the form of rewards or penalties. In hydrology, reinforcement learning can be used to optimize water management decisions such as dam operations and irrigation scheduling.
+#Reinforcement learning: In this type of learning, the algorithm learns by interacting with an environment and receiving feedback in the form of rewards or penalties. In hydrology, reinforcement learning can be used to optimize water management decisions such as dam operations and irrigation scheduling.
 
 Machine learning algorithms can be further classified into various categories such as decision trees, random forests, support vector machines, neural networks, and many more. Each algorithm has its strengths and weaknesses, and the choice of algorithm depends on the problem at hand and the characteristics of the data.
 
